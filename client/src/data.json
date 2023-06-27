@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "category": "Placas Madre",
+    "brand": "MSI",
+    "name": "MSI Placa base B550-A PRO ProSeries",
+    "images": [
+      "https://i.ibb.co/MgX6Whn/MSI-B550-A-PRO-Detail.png",
+      "https://i.ibb.co/JR17rgq/MSI-B550-A-PRO-Card.png"
+    ],
+    "description": "Soporta procesadores 3ra Gen AMD Ryzen™ y procesadores AMD Ryzen™ futuros con actualización de BIOS. Soporta memoria DDR4 hasta 4400(OC) MHz. Juego ultrarrápido: PCIe 4.0, Lightning Gen4 x4 M.2 con M.2 Shield Frozr, AMD Turbo USB 3.2 Gen 2. Solución Térmica Premium: Diseño de Disipador Extendido y M.2 Shield Frozr para un alto desempeño de sistema y una experiencia de uso sin pausa. Diseño poderoso: Core Boost, Digital PWM IC, PCB con capa de cobre gruesa de 2oz, Creator Genie, DDR4 Boost. Audio Boost: Reward your ears with studio grade sound quality. Multi-GPU: Slots PCI-E con Steel armor. Soporta tecnología de 2 vías AMD Crossfire™. Dragon Center: Nuevo software que integra todas las herramientas exclusivas de MSI en una interfaz fácil de usar.",
+    "price": 140,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "category": "Placas Madre",
+    "brand": "ASUS",
+    "name": "ASUS AM4 TUF Gaming X570-Plus (Wi-Fi)",
+    "images": [
+      "https://i.ibb.co/7jBqTxS/ASUS-AM4-TUF-Gaming-X570-Plus-Detail.jpg",
+      "https://i.ibb.co/8NktjHR/ASUS-AM4-TUF-Gaming-X570-Plus-Card.png"
+    ],
+    "description": "Socket AMD AM4: Listo para los procesadores AMD RyzenTM de 2da y 3ra generación. Solución de energía mejorada: Componentes TUF de grado militar, Socket ProCool y Digi+ VRM para una máxima durabilidad. Enfriamiento integral: Disipador térmico PCH activo, Disipador térmico VRM, Disipador térmico M.2, Cabezales de ventilador híbridas y Fan Xpert 4. Conectividad de próxima generación: Puertos PCIe 4.0 M.2 duales, USB 3.2 Gen 2, Ethernet Gigabit L8200A exclusivo de Realtek®, TUF LANGuard y tecnología TurboLAN. Realtek S1200A Codec: Presenta una relación señal/ruido de 108dB sin precedentes para la salida de línea estéreo y una SNR de 103dB para la entrada de línea, que brinda una calidad de audio impecable. Aura Sync RGB: Sincronice la iluminación LED con una amplia gama de equipos para PC compatibles, que incluyen tiras RGB direccionables. TUF Gaming Alliance: El ecosistema de hardware de ASUS garantiza la mejor compatibilidad y la estética complementaria de los componentes al gabinete.",
+    "price": 209.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 3,
+    "category": "Placas Madre",
+    "brand": "MSI",
+    "name": "MSI MPG Z490 GAMING EDGE WIFI ATX Gaming Motherboard",
+    "images": [
+      "https://i.ibb.co/0CjVNBQ/MSI-MPG-Z490-GAMING-EDGE-WIFI-ATX-Gaming-Motherboard-Detail.png",
+      "https://i.ibb.co/Dt0dxtL/MSI-MPG-Z490-GAMING-EDGE-WIFI-ATX-Gaming-Motherboard-Card.png"
+    ],
+    "description": "Soporta procesadores 10ma Gen Intel® Core™ / Pentium® Celeron® para socket LGA 1200. Soporta memoria DDR4 hasta 4800(OC) MHz. Diseño energético mejorado: Sistema energético de Doble Riel 12+1+1, conectores de energía para CPU de 8+4 pines, Core Boost, DDR4 Boost. Solución térmica Premium: Cubierta de aluminio con Diseño de Disipador Extendido y M.2 Shield Frozr para un alto desempeño y una experiencia de juego sin pausa. Lightning USB 20G: Impulsado por el controlador ASmedia 3241 USB 3.2 Gen2x2, ofrece velocidades nunca vistas de USB, hasta 20Gb/s con USB Tipo C. LAN de 2.5G con LAN Manager y solución Intel Wi-Fi 6 AX: Solución de red mejorada para uso profesional y de multimedia. Ofrece una conexión de red segura, estable y rápida. MYSTIC LIGHT: 16.8 millones de colores/ 29 efectos controlados con un clic. MYSTIC LIGHT EXTENSION soporta tiras LED RGB y RAINBOW. Protección de E/S preinstalada: Mejor protección contra emisiones electromagnéticas y mayor conveniencia de instalación. Audio Boost: Gratifica tus oídos con el sonido con calidad de estudio. ",
+    "price": 129.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 4,
+    "category": "Placas Madre",
+    "brand": "ASUS",
+    "name": "ASUS Prime Z590-P LGA 1200",
+    "images": [
+      "https://i.ibb.co/84KY3Wc/ASUS-Prime-Z590-P-LGA-1200-Detail.jpg",
+      "https://i.ibb.co/9Zj9p1T/ASUS-Prime-Z590-P-LGA-1200-Card.jpg"
+    ],
+    "description": "Socket Intel® LGA 1200: Listo para procesadores Intel® Core™ de 11.ª y 10.ª generación. Solución de potencia mejorada: Fases de poder DrMOS 10 + 1, PCB de seis capas, conector ProCool de 8 pines, bobinas de aleación y condensadores duraderos para una entrega de potencia estable. Refrigeración completa: Grandes disipadores de calor VRM, disipador de M.2, disipador de PCH, puertos de ventilador híbridos y Fan Xpert 4. ASUS OptiMem II: Enrutamiento cuidadoso de trazas y vías, además de optimizaciones de la capa base para preservar la integridad de la señal para mejorar el overclocking de memoria. Conectividad de próxima generación: PCIe® 4.0, Ethernet de 2.5 Gb, USB 3.2 Gen 2x2 Type-C®, USB 3.2 Gen 1 Type-C del panel frontal®, soporte para Thunderbolt™ 4",
+    "price": 129.95,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 5,
+    "category": "Placas Madre",
+    "brand": "MSI",
+    "name": "MSI MPG Z690 Edge WiFi DDR4",
+    "images": [
+      "https://i.ibb.co/qsvcm2s/MSI-MPG-Z690-Edge-Wi-Fi-DDR4-Detail.jpg",
+      "https://i.ibb.co/Jv9NJH8/MSI-MPG-Z690-Edge-Wi-Fi-DDR4-Card.jpg"
+    ],
+    "description": "Soporta procesadores 12a Gen Intel® Core™ / Pentium® Celeron® para socket LGA 1700. Soporta memoria DDR4, hasta 5200+(OC) MHz. Juego ultrarrápido: PCIe 5.0 slot, Lightning Gen 4 x4 M.2, USB 3.2 Gen 2x2. Diseño energético mejorado: Direct 16+1+1 fases, doble conector de energía para CPU de 8 pines, Core Boost, Memory Boost. Solución térmica premium: Cubierta de aluminio en disipador, heat-pipe, pads térmicos para MOSFET 7W/mk, pads térmicos adicionales para choke y M.2 Shield Frozr para un sistema de alto desempeño y un juego sin interrupciones. MYSTIC LIGHT: 16,8 millones de colores / efectos de iluminación controlados con un clic. MYSTIC LIGHT SYNC soporta tiras LED RGB y RAINBOW(ARGB) y dispositivos ambientales. 2.5G LAN con LAN Manager y solución Intel Wi-Fi 6: Tecnología de red mejorada para uso profesional y de multimedia. Ofrece una conexión a red segura, estable y rápida. AUDIO BOOST 5: Gratifica tus oídos con el sonido con calidad de estudio para la experiencia de juego más inmersiva. PCB de alta calidad: PCB de 6 capas con cobre espesado de 2oz y materiales con nivel de servidor. Protección de E/S preinstalada: Mejor protección contra interferencias electromagnéticas y mayor facilidad de instalación.",
+    "price": 269.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 6,
+    "category": "Fuentes de poder",
+    "brand": "Corsair",
+    "name": "Corsair HXi Series, HX750i, 750 vatios (750W), fuente de alimentación modular, 80+ certificación platino",
+    "images": [
+      "https://i.ibb.co/cQKtSg3/Corsair-HXi-Series-HX750i-Detail.png",
+      "https://i.ibb.co/T1zQdXB/Corsair-HXi-Series-HX750i-Card.png"
+    ],
+    "description": "Las fuentes alimentació,n HXi Series™ ofrecen un control del voltaje extremadamente preciso, funcionamiento prá,cticamente silencioso y un conjunto de cables totalmente modulares. Constituyen una gran elecció,n para los PC de alto rendimiento, cuando la fiabilidad es esencial.",
+    "price": 289.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 7,
+    "category": "Fuentes de poder",
+    "brand": "Corsair",
+    "name": "Corsair Serie RMX (2021), RM1000x, 1000 vatios",
+    "images": [
+      "https://i.ibb.co/ckFrG8p/Corsair-Serie-RMX-2021-RM1000x-Detail.png",
+      "https://i.ibb.co/3Y1C4CQ/Corsair-Serie-RMX-2021-RM1000x-Card.png"
+    ],
+    "description": "Las fuentes de alimentación completamente modulares CORSAIR RM1000x Series con conectores EPS12V se fabrican con componentes de la máxima calidad para proporcionar una potencia eficiente 80 PLUS Gold a su PC, con un funcionamiento prácticamente silencioso.",
+    "price": 188.49,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 8,
+    "category": "Fuentes de poder",
+    "brand": "Apevia",
+    "name": "Apevia SPIRIT600W Spirit 600W ATX Fuente de alimentación con ventilador de 4.724 in controlado térmicamente, interruptor de 115/230V, todas las protecciones",
+    "images": [
+      "https://i.ibb.co/yYjV8vF/Apevia-SPIRIT600-W-Spirit-600-W-ATX-Detail.jpg",
+      "https://i.ibb.co/gZ43ys0/Apevia-SPIRIT600-W-Spirit-600-W-ATX-Card.jpg"
+    ],
+    "description": "La línea de fuentes de alimentación Spirit de Apevia aporta forma y función a su sistema, brindando alta eficiencia con un aspecto negro básico que se adapta a las construcciones de computadoras ATX. Es compatible con el estándar de potencia moderno 12v2.3 con una configuración de riel único de 12V. Con un ventilador negro silencioso de 120 mm, mantiene fresco todo el interior del sistema. Viene con suficientes cables para conectar todos los dispositivos que puedas necesitar. La fuente de alimentación ATX-SP600W es perfecta para construcciones de rango medio tanto para uso comercial como para juegos. ",
+    "price": 32.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "category": "Fuentes de poder",
+    "brand": "Apevia",
+    "name": "Apevia ATX-PM650W Premier 650W 80+ Gold Certified Active PFC ATX Fuente de alimentación para juegos semimodular.",
+    "images": [
+      "https://i.ibb.co/BqkVMnN/Apevia-ATX-PM650-W-Premier-Detail.jpg",
+      "https://i.ibb.co/80Dz0sy/Apevia-ATX-PM650-W-Premier-Card.jpg"
+    ],
+    "description": "La línea Premier de fuentes de alimentación de Apevia aporta una forma y una función elegantes a su sistema sin dejar de satisfacer sus necesidades. Estable y confiable, es compatible con la nueva configuración de riel único y estándar ATX 12v2.3. Con un genial ventilador RGB de 135 mm, agrega un brillo agradable a cualquier computadora. La línea Premier también usa una configuración de cable modular híbrido, lo que le permite usar solo los conectores que necesita. No es necesario doblar excesivamente los cables. Simplemente guarde los enchufes no utilizados para usarlos en el futuro. También utiliza Active PFC, con un factor de corrección del 99 %, lo que aumenta el rendimiento y ahorra energía. Sin interruptor de palanca incluido, la fuente de alimentación cambia automáticamente entre 110 V y 230 V dependiendo de la red eléctrica a la que esté conectada. Certificación 80+ Oro.",
+    "price": 59.99,
+    "available": true,
+    "stock": 1
+  },
+  {
+    "id": 10,
+    "category": "Fuentes de poder",
+    "brand": "Redragon",
+    "name": "Redragon PSU007 Fuente de alimentación totalmente modular ATX de 80+ Gold de 850 vatios con certificado 80 Plus Gold, tamaño compacto de 6.299 in y ventilador RGB de bajo ruido, 0 RPM",
+    "images": [
+      "https://i.ibb.co/Y01tVbX/Redragon-PSU007-Detail.jpg",
+      "https://i.ibb.co/5cxwMsd/Redragon-PSU007-Card.jpg"
+    ],
+    "description": "Certificación 80 Plus Gold para temperatura de caja más fría, mayor eficiencia energética y menos ruido. Construido con condensadores 100% japoneses para una gran confiabilidad y durabilidad, golpea para una máxima estabilidad de potencia y un rendimiento inquebrantable de grado de esports. Equipado con un ventilador en modo cero RPM, el ventilador solo funciona cuando la temperatura alcanza los 60 ℃, o se mantendrá en modo 0 RPM para un estado de silencio inteligente. El tamaño compacto de 160 mm permite una mejor y más amplia compatibilidad con el chasis y deja espacio para una gestión de cables ordenada. Hasta 26 modos RGB, el ventilador sólido equipado con una sección retroiluminada RGB decente con bajo consumo necesario ofrece diversos modos de retroiluminación para combinar todo el estilo de iluminación de su caja. Eclipsa tu propio ambiente de competencia. Mainstream LLC resonante + estructura DC-DC adoptada para cumplir con la fuente de alimentación GPU de la CPU (100-240Vac), placa base de servidor de soporte de CPU dual P8 (4+4), OVP/OCP/OPP/OTP/UVP/SCP Equipado con Flat Black. Totalmente Los cables modulares, que reducen el desorden y mejoran el flujo de aire, optimizan la eficiencia general y el rendimiento térmico.",
+    "price": 119.99,
+    "available": true,
+    "stock": 1
+  }
+]
